@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I desperately tried to find one but none comes to my mind :/
         
-<img src = "https://github-readme-stats.vercel.app/api?username=slyfox1999&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=1A1B27">
+<img src = "https://github-readme-stats.vercel.app/api?username=slyfox1999&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=1A1B29">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slyFox1999&show_icons=true&theme=tokyonight)
 <br>
