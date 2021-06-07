@@ -1,7 +1,6 @@
-### Hi there 👋
+<h1 align="center" >Hi 👋, I'm Anurrag khare</h1>
 
-
-
+ <img align="right" alt="My Coding Life" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="440" >
 Here are some ideas to get you started:
 
 
