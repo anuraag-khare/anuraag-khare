@@ -4,8 +4,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning OpenCV and ML
-- 👯 I’m looking to collaborate on my current AR project
+- 🌱 I’m currently learning ML and Web Developement.
 - 📫 Email me at -  **anuraagkhare2121@outlook.com**           
 
 
