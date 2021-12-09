@@ -65,6 +65,6 @@ Reach me at:
 <a href="https://www.facebook.com/anuraag.khare.73932" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="AnuraagKhare" height="40" width="40" /></a>
 
 
-
+</div>
 
 
