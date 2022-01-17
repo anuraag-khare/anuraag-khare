@@ -9,7 +9,7 @@
 <h2 align = "center" ><i>Here are some ideas to get you started:</i></h2>
  
 - 🌱 I’m currently learning Full Stack Web Developement.
-- 📫 Email me at -  **anuraagkhare2121@outlook.com**           
+- 📫 Email me at -  **anuraagkhare2121@icloud.com**           
 - ⚡ Fun fact: I desperately tried to find one but none comes to my mind :/
 
 <h3 align="center">
