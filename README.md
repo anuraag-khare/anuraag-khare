@@ -9,9 +9,9 @@
  
 <h2 align = "center" ><i>Here are some ideas to get you started:</i></h2>
  
-- 🌱 I’m currently learning Full Stack Web Developement.
+- 🌱 I’m currently learning Backend Development.
 - 📫 Email me at -  **anuraagkhare2121@icloud.com**           
-- ⚡ Fun fact: I desperately tried to find one but none comes to my mind :/
+- ⚡ Fun fact: Can be pendatic for weirdest of things :/
 
 <h3 align="center">
  
@@ -39,18 +39,18 @@
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="auto"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="auto"/>
-<img src="https://raw.githubusercontent.com/isocpp/logos/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg" width="40" height="auto"/> 
+
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="auto"/>
+ 
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40" height="auto"/> 
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="auto"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="auto"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="JavaScipt" width="auto" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScipt" width="auto" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="70" height="auto"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="Mysql" width="60" height="auto"/> 
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="Mysql" width="80" height="auto"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="auto"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="auto"/> 
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="40" height="auto"/> 
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="auto"/> 
-<img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" height="40" width="60">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" height="40" width="100px">
  
 <hr>
@@ -61,9 +61,9 @@
 Reach me at: 
 
 <p align="center">
-<a href="https://twitter.com/AnuraagKhare" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="AnuraagKhare" height="40" width="50" /></a> 
+
 <a href="https://www.linkedin.com/in/anuraagkhare/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="AnuraagKhare" height="40" width="40" /></a>
-<a href="https://www.facebook.com/anuraag.khare.73932" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="AnuraagKhare" height="40" width="40" /></a>
+
 
 
 </div>
