@@ -52,6 +52,8 @@
 <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="40" height="auto"/> 
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="auto"/> 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" height="40" width="100px">
+ <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" height="40" width="60px">
+ <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" height="40" width="100px">
  
 <hr>
  
