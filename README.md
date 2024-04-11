@@ -75,9 +75,9 @@ Reach me at:
  
  <h1><i>Stats</i></h1>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=slyfox1999&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=1A1B29">
+<img src = "https://github-readme-stats.vercel.app/api?username=anuraag-khare&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=1A1B29">
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=slyFox1999&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuraag-khare&theme=tokyonight)](https://git.io/streak-stats)
 
  
 </div>
