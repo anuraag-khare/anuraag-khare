@@ -37,11 +37,15 @@ Reach me at:
 
 ### 🚀 Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![Static Badge](https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=Go&color=%23000000)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=Go&color=%23000000)
+![TypeScipt](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&labelColor=323330&color=323330)
+
+<!-- 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+-->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,14 +55,18 @@ Reach me at:
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&color=%23045036)
 ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=Flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-blue?style=for-the-badge&logo=FastAPI&color=%23f2ffff)
+![ExpressJs](https://img.shields.io/badge/Express.Js-grey?style=for-the-badge&logo=Express&labelColor=%234d4c4c&color=%234d4c4c)
 ![Mongo DB](https://img.shields.io/badge/Mongo%20DB-black?style=for-the-badge&logo=mongodb&logoColor=339933)
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mySql&logoColor=ffa500)
+<!--
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+-->
 
 ### 🧑🏻‍💻 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-grey?style=for-the-badge&logo=JetBrains&labelColor=%234d4c4c&color=%234d4c4c)
 ![Xcode](https://img.shields.io/badge/Xcode-black?style=for-the-badge&logo=Xcode&labelColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
